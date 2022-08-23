@@ -1,0 +1,185 @@
+*{
+ 
+  margin: 0;
+  padding: 0;
+}
+h3 h5{
+  font-family: 'Arima', cursive;
+}
+.container{
+  display: flex;
+  justify-content: space-around;
+}
+.filters{
+  display: inline-block;
+  width: 20%;
+  height: 350px;
+}
+.filterhead{
+  font-family: 'Arima', cursive;
+}
+.slider{
+  background-color: white;  
+}
+
+.form{
+  width: 75%;
+  height: 350px;
+  
+  border-radius: 10px;
+}
+.label{
+  display: inline-block;
+  margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+  
+    
+}
+.label p{
+  display: inline-block;
+  margin: 0;
+  
+}
+.label label{
+
+}
+.span{
+  float: right;
+  margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 18px;
+   
+}
+.view{
+  color: rgb(250, 9, 165);
+}
+.span span{
+  display: inline-block;
+ 
+}
+.mobilephones{
+  display: inline-block;
+  height: auto;
+  width: 71%;
+  
+ 
+  clear: left;
+}
+.heading{
+  display: inline-block;
+  font-family: 'Arima', cursive;
+
+}
+.no2{
+  float: right;
+}
+.mobiles{
+  background-color: aliceblue;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.image{
+  height: 175px;
+  width: 177px;
+}
+.onemobile{
+  background-color: aliceblue;
+  margin: 20px;
+  width: 20%;
+  
+}
+.cashBack{
+  color: white;
+  background-color: deepskyblue;
+  margin-top: 6px;
+  width: 100px;
+}
+.name{
+  font-weight: bolder;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.price{
+  display: flex;
+  justify-content: space-around;
+}
+.actualPrice{
+  font-weight: bolder;
+}
+.cutPrice{
+  text-decoration: line-through;
+}
+.discount{
+  color: blue;
+}
+.section{
+  height: 400px;
+  width: 100%;
+ 
+  margin-top: 0;
+  border-top-width: 0;
+}
+.section1{
+ 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  border-bottom: 1px solid black;
+ 
+}
+.icons{
+  font-size: 100px;
+    text-align: center;
+   
+    height: 115px;
+}
+.item{
+  width: 152px;
+  height: 176px;
+  display: inline-block;
+
+  border-right: 1px solid black;
+  padding-bottom: 20px;
+  
+  margin-top: 10px;
+  padding-top: 20px;
+  text-align: center;
+}
+.item h5{
+  display: inline-block;
+
+  
+}
+.item p{
+  padding-bottom: 0px;
+    margin-top: 0px;
+    display: inline-block;
+
+}
+#lastItem{
+  border: none;
+}
+.section2{
+  display: flex;
+  flex: wrap;
+  justify-content: space-around;
+ 
+  
+  padding-top: 15px;
+}
+.head{
+  margin-bottom: 8px
+}
+.list{
+  margin-bottom: 5px;
+}
+.ul{
+  width: 20%;
+  display: inline-block;
+  
+}
+.ul ul{
+list-style: none;
+}
